@@ -1,0 +1,33 @@
+{
+    "file_path": "ott.xls",
+    "table_number": 3,
+    "dimensions": {
+        "Area": {
+            "cell_range": "G4:Q4",
+            "search_type": "DIRECTLY",
+            "direction": "ABOVE",
+            "override_cells": {
+                "K4": "European Union",
+                "M4": "Other EU",
+                "O4": "EU15"
+            }
+        },
+        "Month": {
+            "cell_range": "B7:B48",
+            "search_type": "DIRECTLY",
+            "direction": "LEFT"
+        },
+        "Year": {
+            "cell_range": "A7:A48",
+            "search_type": "DIRECTLY",
+            "direction": "LEFT",
+            "duplicate_cells": {
+                "A8:A18": "A7",
+                "A20:A30": "A19",
+                "A32:A42": "A31",
+                "A44:A48": "A43"
+            }
+        }
+    },
+    "observation_range": "G7:Q48"
+}

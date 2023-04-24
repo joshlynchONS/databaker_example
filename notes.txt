@@ -1,0 +1,18 @@
+1 - broken_down_example
+    internetusers2020.xlsx
+    reshape df
+
+2 - proposed_use
+    additional_functions
+    example_config.json
+    internetusers2020.xlsx
+
+3 - multi_cat_example
+    additional_functions
+    multi_cat_config.json
+    internetusers2020.xlsx
+
+4 - ott_example
+    additional_functions
+    ott_example_config.json
+    ott.xls

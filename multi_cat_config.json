@@ -1,0 +1,70 @@
+{
+    "sections": [
+        {
+            "file_path": "internetusers2020.xlsx",
+            "table_number": 1,
+            "dimensions": {
+                "Years": {
+                    "cell_range": "C4:J4",
+                    "search_type": "DIRECTLY",
+                    "direction": "ABOVE"
+                },
+                "Age": {
+                    "cell_range": "A9:A15",
+                    "search_type": "DIRECTLY",
+                    "direction": "LEFT"
+                },
+                "Used": {
+                    "cell_range": "C3",
+                    "search_type": "CLOSEST",
+                    "direction": "ABOVE"
+                }
+            },
+            "observation_range": "C9:J15"
+        },
+        {
+            "file_path": "internetusers2020.xlsx",
+            "table_number": 1,
+            "dimensions": {
+                "Years": {
+                    "cell_range": "L4:S4",
+                    "search_type": "DIRECTLY",
+                    "direction": "ABOVE"
+                },
+                "Age": {
+                    "cell_range": "A9:A15",
+                    "search_type": "DIRECTLY",
+                    "direction": "LEFT"
+                },
+                "Used": {
+                    "cell_range": "L3",
+                    "search_type": "CLOSEST",
+                    "direction": "ABOVE"
+                }
+            },
+            "observation_range": "L9:S15"
+        },
+        {
+            "file_path": "internetusers2020.xlsx",
+            "table_number": 1,
+            "dimensions": {
+                "Years": {
+                    "cell_range": "U4:AB4",
+                    "search_type": "DIRECTLY",
+                    "direction": "ABOVE"
+                },
+                "Age": {
+                    "cell_range": "A9:A15",
+                    "search_type": "DIRECTLY",
+                    "direction": "LEFT"
+                },
+                "Used": {
+                    "cell_range": "U3",
+                    "search_type": "CLOSEST",
+                    "direction": "ABOVE"
+                }
+            },
+            "observation_range": "U9:AB15"
+        }
+    ]
+}
